@@ -1,4 +1,4 @@
-TrackMySleepQuality - Final Code for 6.1 Room codelab
+TrackMySleepQuality
 =====================================================
 
 Final code for Android Kotlin Fundamentals Codelab 6.1 Room
